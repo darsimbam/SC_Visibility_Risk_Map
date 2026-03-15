@@ -1,0 +1,19 @@
+shipment_id,origin_id,destination_id,sku,sku_name,qty,departure_date,original_eta,eta,actual_arrival,status,vessel_id,transport_mode,notes
+SHP-001,LOC-014,LOC-004,SKU-001,Gentle Face Wash,1800,2026-02-22,2026-03-20,2026-03-27,,in_transit,VSL-001,ocean,Hamburg to Riyadh via Jeddah - vessel delayed and creating a stockout gap
+SHP-002,LOC-014,LOC-006,SKU-002,Daily Moisture Lotion,2200,2026-02-25,2026-03-19,2026-03-23,,in_transit,VSL-002,ocean,Hamburg to Dubai - berth congestion added 4 days
+SHP-003,LOC-003,LOC-010,SKU-003,Repair Shampoo,700,2026-03-11,2026-03-14,2026-03-14,,in_transit,,truck,Izmir to Muscat - truck overdue after border clearance issue
+SHP-004,LOC-001,LOC-006,SKU-004,Nourishing Conditioner,500,2026-03-13,2026-03-16,2026-03-16,,in_transit,,air,Basel to Dubai - priority air shipment on schedule
+SHP-005,LOC-001,LOC-012,SKU-005,Micellar Cleansing Water,300,2026-03-20,2026-03-23,2026-03-23,,planned,,air,Basel to Doha - planned after PO-002 recovery
+SHP-006,LOC-014,LOC-009,SKU-006,Vitamin C Serum,900,2026-03-01,2026-03-18,2026-03-21,,in_transit,VSL-003,ocean,Hamburg to Al Ahmadi - weather reroute added 3 days
+SHP-007,LOC-001,LOC-005,SKU-002,Daily Moisture Lotion,600,2026-03-14,2026-03-17,2026-03-17,,in_transit,,truck,Basel to Jeddah - express truck on schedule
+SHP-008,LOC-015,LOC-011,SKU-005,Micellar Cleansing Water,1200,2026-02-27,2026-03-16,2026-03-18,,in_transit,VSL-004,ocean,Izmir to Sohar - feeder vessel running 2 days late
+SHP-009,LOC-001,LOC-008,SKU-004,Nourishing Conditioner,400,2026-03-18,2026-03-21,2026-03-21,,planned,,air,Basel to Kuwait City - waiting on regional allocation
+SHP-010,LOC-014,LOC-013,SKU-002,Daily Moisture Lotion,1500,2026-03-03,2026-03-21,2026-03-21,,in_transit,VSL-005,ocean,Hamburg to Al Rayyan - on schedule
+SHP-011,LOC-001,LOC-012,SKU-004,Nourishing Conditioner,250,2026-03-15,2026-03-18,2026-03-18,,in_transit,,air,Basel to Doha - partial cover for conditioner shortage
+SHP-012,LOC-003,LOC-008,SKU-003,Repair Shampoo,300,2026-03-22,2026-03-24,2026-03-24,,planned,,truck,Izmir to Kuwait City - follow-up truck after PO-003 catch-up
+SHP-013,LOC-001,LOC-007,SKU-006,Vitamin C Serum,600,2026-03-21,2026-03-24,2026-03-24,,planned,,air,Basel to Abu Dhabi - waiting on serum batch completion
+SHP-014,LOC-015,LOC-004,SKU-005,Micellar Cleansing Water,900,2026-03-02,2026-03-20,2026-03-24,,in_transit,VSL-006,ocean,Izmir to Riyadh via Jeddah - feeder connection delay extended transit
+SHP-015,LOC-001,LOC-007,SKU-001,Gentle Face Wash,450,2026-03-16,2026-03-18,2026-03-18,,planned,,air,Basel to Abu Dhabi - planned replenishment for launch demand
+SHP-016,LOC-001,LOC-011,SKU-006,Vitamin C Serum,350,2026-03-21,2026-03-25,2026-03-25,,planned,,air,Basel to Sohar - planned top-up for promo demand
+SHP-017,LOC-001,LOC-009,SKU-001,Gentle Face Wash,500,2026-03-19,2026-03-22,2026-03-22,,planned,,air,Basel to Al Ahmadi - backup replenishment lot
+SHP-018,LOC-001,LOC-013,SKU-006,Vitamin C Serum,420,2026-03-20,2026-03-24,2026-03-26,,planned,,truck,Basel to Al Rayyan - road transfer after customs release

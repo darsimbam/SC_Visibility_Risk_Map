@@ -1,0 +1,20 @@
+location_id,name,type,lat,lon,region,country
+LOC-001,Basel Skin Care Plant,plant,47.5596,7.5886,Europe,Switzerland
+LOC-003,Izmir Personal Care Plant,plant,38.4237,27.1428,Europe,Turkey
+LOC-004,Riyadh Distribution Center,distributor,24.7136,46.6753,Gulf,Saudi Arabia
+LOC-005,Jeddah Distribution Center,distributor,21.4858,39.1925,Gulf,Saudi Arabia
+LOC-006,Dubai Distribution Center,distributor,25.2048,55.2708,Gulf,United Arab Emirates
+LOC-007,Abu Dhabi Distribution Center,distributor,24.4539,54.3773,Gulf,United Arab Emirates
+LOC-008,Kuwait City Distribution Center,distributor,29.3759,47.9774,Gulf,Kuwait
+LOC-009,Al Ahmadi Distribution Center,distributor,28.7744,48.1028,Gulf,Kuwait
+LOC-010,Muscat Distribution Center,distributor,23.5880,58.3829,Gulf,Oman
+LOC-011,Sohar Distribution Center,distributor,24.3478,56.7094,Gulf,Oman
+LOC-012,Doha Distribution Center,distributor,25.2854,51.5310,Gulf,Qatar
+LOC-013,Al Rayyan Distribution Center,distributor,25.2919,51.4244,Gulf,Qatar
+LOC-014,Port of Hamburg,port,53.5461,9.9661,Europe,Germany
+LOC-015,Port of Izmir,port,38.4192,27.1287,Europe,Turkey
+LOC-016,Port of Jeddah,port,21.4775,39.1533,Gulf,Saudi Arabia
+LOC-017,Port of Jebel Ali,port,25.0113,55.0627,Gulf,United Arab Emirates
+LOC-018,Port of Shuwaikh,port,29.3567,47.9100,Gulf,Kuwait
+LOC-019,Port of Sohar,port,24.5134,56.6035,Gulf,Oman
+LOC-020,Port of Hamad,port,25.0130,51.6166,Gulf,Qatar

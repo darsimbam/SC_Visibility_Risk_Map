@@ -1,0 +1,10 @@
+order_id,plant_id,sku,sku_name,planned_qty,actual_qty,planned_completion,actual_completion,status,notes
+PO-001,LOC-001,SKU-001,Gentle Face Wash,4500,1800,2026-03-09,2026-03-20,in_progress,Foaming pump shortage - 11-day slip affecting Saudi replenishment
+PO-002,LOC-001,SKU-005,Micellar Cleansing Water,2000,900,2026-03-12,2026-03-22,in_progress,Packaging line constraint - 10-day slip affecting Doha demand
+PO-003,LOC-003,SKU-003,Repair Shampoo,1600,700,2026-03-08,2026-03-18,in_progress,Supplier resin late - 10-day slip impacting Oman and Kuwait
+PO-004,LOC-001,SKU-006,Vitamin C Serum,1800,1000,2026-03-10,2026-03-19,in_progress,Filling line downtime - 9-day slip delaying UAE replenishment
+PO-005,LOC-001,SKU-002,Daily Moisture Lotion,2600,2600,2026-03-11,2026-03-11,completed,Completed on schedule
+PO-006,LOC-001,SKU-004,Nourishing Conditioner,1400,1400,2026-03-17,2026-03-17,planned,Planned batch for Qatar air replenishment
+PO-007,LOC-001,SKU-001,Gentle Face Wash,1200,600,2026-03-11,2026-03-23,in_progress,Secondary filler validation created a 12-day slip for Kuwait backup stock
+PO-008,LOC-003,SKU-005,Micellar Cleansing Water,1300,1300,2026-03-15,2026-03-15,completed,Completed on schedule
+PO-009,LOC-001,SKU-005,Micellar Cleansing Water,900,900,2026-03-18,2026-03-18,planned,Reserve batch for Oman demand
