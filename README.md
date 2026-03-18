@@ -4,6 +4,12 @@ Streamlit MVP for monitoring supply chain visibility and operational risk across
 
 The current demo scenario models production in Switzerland and Turkey, with distribution across Gulf markets. It highlights projected stockouts, delayed vessels, missed ETAs, and production slips using CSV-backed sample data.
 
+## Live Demo
+
+Recruiters and reviewers can view the deployed app here:
+
+[https://baselstraseriskmap.streamlit.app/](https://baselstraseriskmap.streamlit.app/)
+
 ## What It Does
 
 - Shows plants, distribution centers, ports, vessels, and shipment routes on an interactive map
