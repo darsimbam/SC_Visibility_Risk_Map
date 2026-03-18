@@ -6,7 +6,7 @@ The current demo scenario models production in Switzerland and Turkey, with dist
 
 ## Live Demo
 
-Recruiters and reviewers can view the deployed app here:
+Reviewers can view the deployed app here:
 
 [https://baselstraseriskmap.streamlit.app/](https://baselstraseriskmap.streamlit.app/)
 
